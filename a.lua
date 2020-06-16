@@ -1,3 +1,4 @@
+-- not at all my script, original pastebin is https://pastebin.com/raw/67sh8P8E i just didnt want to risk a script being broken in the near future due to a paste wipe.
 local library = {
 	windowcount = 0;
 }
